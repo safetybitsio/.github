@@ -18,8 +18,8 @@ Our Cloud Security platform offers seamless integration with your cloud infrastr
 ### Key Features
 
 - **Asset Discovery**: Quickly identify and map all assets within your plant or cloud environment.
-- **Detailed Insights**: Receive valuable information on PLCs, including firmware versions and serial numbers.
-- **Anomaly Detection**: Utilize cloud audit logs to detect and respond to potential threats.
+- **Detailed Insights**: Receive valuable information on your cloud and critical mission assets, including firmware versions and serial numbers.
+- **Anomaly Detection**: Utilize audit logs to detect and respond to potential threats.
 - **Unified Controls**: Manage security policies with a single, powerful tool.
 - **Seamless Deployment**: Deploy our solutions effortlessly with our agentless model for cloud environments.
 
