@@ -1,27 +1,23 @@
 # SafetyBits.io
 
-Welcome to SafetyBits, the leading innovator in cybersecurity solutions for operational technology (OT) and cloud environments. Our mission is to empower industries with cutting-edge technology that ensures the safety, security, and efficiency of their operations.
+Welcome to SafetyBits, the leading innovator in cybersecurity solutions for operational technology (OT) environments. Our mission is to empower industries with cutting-edge technology that ensures the safety, security, and efficiency of their operations.
 
 ## About Us
 
-At SafetyBits, we specialize in delivering advanced cybersecurity tools that protect critical infrastructure and cloud environments from potential threats. Our comprehensive solutions are designed to meet the highest standards of security and compliance, helping businesses safeguard their assets and data.
+At SafetyBits, we specialize in delivering advanced cybersecurity tools that protect critical infrastructure from potential threats. Our comprehensive solutions are designed to meet the highest standards of security and compliance, helping businesses safeguard their assets and data.
 
 ## Our Solutions
 ### OT Security
 
 Our OT Security solutions are engineered to provide robust protection for industrial control systems and other operational technology. With real-time monitoring, anomaly detection, and compliance with the upcoming NIS2 European law, we ensure that your plant operations remain secure and compliant.
 
-### Cloud Security
-
-Our Cloud Security platform offers seamless integration with your cloud infrastructure. Featuring Cloud Security Posture Management (CSPM), security benchmarks, anomaly detection, and an agentless deployment model, we provide a comprehensive approach to cloud security.
-
 ### Key Features
 
-- **Asset Discovery**: Quickly identify and map all assets within your plant or cloud environment.
-- **Detailed Insights**: Receive valuable information on your cloud and critical mission assets, including firmware versions and serial numbers.
+- **Asset Discovery**: Quickly identify and map all assets within your facility.
+- **Detailed Insights**: Receive valuable information on your critical mission assets, including firmware versions and serial numbers.
 - **Anomaly Detection**: Utilize audit logs to detect and respond to potential threats.
 - **Unified Controls**: Manage security policies with a single, powerful tool.
-- **Seamless Deployment**: Deploy our solutions effortlessly with our agentless model for cloud environments.
+- **Seamless Deployment**: Deploy our solutions effortlessly.
 
 ## Get Started
 
