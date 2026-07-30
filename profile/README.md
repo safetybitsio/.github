@@ -1,40 +1,64 @@
-# SafetyBits.io
+# Safetybits
 
-Welcome to SafetyBits, the leading innovator in cybersecurity solutions for operational technology (OT) environments. Our mission is to empower industries with cutting-edge technology that ensures the safety, security, and efficiency of their operations.
+**Secure your industrial operations.**
 
-## About Us
+We build the Safetybits OTSPM platform — Operational Technology Security Posture
+Management for the plants, lines and networks that keep industry running.
 
-At SafetyBits, we specialize in delivering advanced cybersecurity tools that protect critical infrastructure from potential threats. Our comprehensive solutions are designed to meet the highest standards of security and compliance, helping businesses safeguard their assets and data.
+## Why OT needs its own tooling
 
-## Our Solutions
-### OT Security
+IT security tools assume you can patch on Tuesday, reboot on Friday and live with
+a few false positives. OT can't. An error in OT means stopped production, so
+generic scanners and noisy alerting are worse than nothing. We build for the
+constraints of the shop floor: passive where it has to be, precise always.
 
-Our OT Security solutions are engineered to provide robust protection for industrial control systems and other operational technology. With real-time monitoring, anomaly detection, and compliance with the upcoming NIS2 European law, we ensure that your plant operations remain secure and compliant.
+## What the platform does
 
-### Key Features
+- **Continuous inventory** — Discover every device in your infrastructure,
+  including the ones nobody documented, and keep an accurate picture as it
+  changes over time.
+- **Seamless compliance** — Industry security standards ship pre-mapped to OT
+  controls. Checks run automatically every day, so you see compliance drift when
+  it happens, not at audit time.
+- **Multi-brand support** — Metadata and diagnostic information from devices
+  across vendors, correlated to surface misconfigurations and vulnerabilities.
+- **Precision alerts** — Root cause instead of alert fatigue, mapped to MITRE
+  ATT&CK for incident response your team already knows how to run.
+- **Contextual threat intelligence** — See how devices actually communicate,
+  evaluated against Zero Trust expectations.
 
-- **Asset Discovery**: Quickly identify and map all assets within your facility.
-- **Detailed Insights**: Receive valuable information on your critical mission assets, including firmware versions and serial numbers.
-- **Anomaly Detection**: Utilize audit logs to detect and respond to potential threats.
-- **Unified Controls**: Manage security policies with a single, powerful tool.
-- **Seamless Deployment**: Deploy our solutions effortlessly.
+### NIS2
 
-## Get Started
+Safetybits Risk Management covers the OT side of the EU NIS2 directive — backup
+management, supply chain security, network security, and vulnerability handling
+and disclosure — continuously and automatically, with a single compliance score
+to track progress.
 
-To get started with SafetyBits, explore our repositories and documentation. Each repository includes detailed instructions on how to deploy and use our tools effectively.
+→ [NIS2 compliance](https://safetybits.io/solutions/nis2-compliance/)
 
-## Contact Us
+## What you'll find here
 
-For more information, visit our website or reach out to us at:
+This organization hosts the public code around the platform:
 
-- Email: hello@safetybits.io
+- [**demos**](https://github.com/safetybitsio/demos) — Examples showing how to
+  use the platform and integrate it with the rest of your stack.
+- [**blog-snippets**](https://github.com/safetybitsio/blog-snippets) — Runnable
+  code from our [blog posts](https://safetybits.io/blog/).
 
-## Contributing
+Each repository documents its own setup and license. The platform itself is
+commercial — [request a demo](https://safetybits.io/demo/) to try it.
 
-We welcome contributions from the community! Please refer to the contributing guidelines in each repository for more details on how you can help.
+## How we work
 
-### License
+**Enable growth** — we improve through trust and sharing what we know.
+**Cut the fluff** — direct and simple, because your time matters.
+**Be sustainable** — built to last, for our customers and for our team.
 
-Each repository contains licensing information relevant to that project. Please refer to the respective repository for more details.
+## Get in touch
 
-Thank you for visiting SafetyBits!
+- Web — [safetybits.io](https://safetybits.io)
+- Console — [console.safetybits.io](https://console.safetybits.io)
+- Email — [hello@safetybits.io](mailto:hello@safetybits.io)
+- LinkedIn — [/company/safetybits](https://www.linkedin.com/company/safetybits/)
+
+Made in Zaragoza, Spain.
